@@ -1,9 +1,11 @@
+<?php session_start();?>
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
     <meta charset="utf-8">
-    <title>PHP Project 01</title>
+    <title>JKMagnussen php project</title>
     <link
         href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
         rel="stylesheet">
@@ -21,7 +23,7 @@
             </a>
             <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="discover.php">About Us</a></li>
+                <li><a href="discover.php">About</a></li>
                 <li><a href="blog.php">Find Blogs</a></li>
                 <?php
             if (isset($_SESSION["useruid"])) {
