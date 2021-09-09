@@ -19,7 +19,7 @@
     <nav>
         <div class="wrapper">
             <a href="index.php">
-                <h2 style="color:white">JKMagnussen</h2>
+                <h2 style="color:white">JKM@gnussen</h2>
             </a>
             <ul>
                 <li><a href="index.php">Home</a></li>
