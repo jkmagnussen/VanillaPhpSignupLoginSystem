@@ -29,7 +29,7 @@ a {
 
 <section class="index-intro">
     <h1>Vanilla php sign-up login project</h1>
-    <p>A vanilla php MySQL signup/ Login system that exercises my ability to implement hashed passwords, prepare
+    <p>A vanilla php MySQL signup & Login system that exercises my ability to implement hashed passwords, prepare
         statements and other forms of form validation to ensure that the data is secure, predictable and immune to SQL
         injection.
     </p>
