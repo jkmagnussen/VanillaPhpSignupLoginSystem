@@ -13,7 +13,7 @@ echo $username;
 
 
 <section class="index-intro">
-    <h1><?php echo $username; ?>, You're now logged in!</h1>
+    <h1><?php echo $username; ?>, You are now logged in!</h1>
     <p>Here iss an important paragraph that explains the purpose of the website and why you are here!
     </p>
 </section>
